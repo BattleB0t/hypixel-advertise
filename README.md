@@ -1,3 +1,5 @@
+<h1 align="center">SonyTV Hypixel advertiser</h1>
+
 <p align="center">
 <img src="https://img.shields.io/tokei/lines/github/SonyTV-Bryson/hypixel-advertise?color=%23FF9900" alt="Total Lines" />
 <img src="https://img.shields.io/github/repo-size/SonyTV-Bryson/hypixel-advertise?color=%23FF9900&logo=GitHub" alt="GitHub Repo Size" />
