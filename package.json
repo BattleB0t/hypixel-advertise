@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SonyTV-Bryson/hypixel-advertise#readme",
   "dependencies": {
-    "fs": "^0.0.1-security",
+    "discord.js": "^12.5.3",
     "mineflayer": "^3.11.0"
   }
 }
